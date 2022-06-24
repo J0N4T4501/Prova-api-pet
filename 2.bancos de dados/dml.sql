@@ -1,6 +1,6 @@
-use petssDB;
+use petsDB;
 
-insert into  tb_petis(nm_pet)
+insert into  tb_pet(nm_pet)
 
 value ('maal');
 
